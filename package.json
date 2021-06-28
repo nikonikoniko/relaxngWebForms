@@ -32,7 +32,7 @@
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-vue": "^5.2.2",
     "js-beautify": "^1.10.2",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.24.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0",
